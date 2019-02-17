@@ -14,7 +14,7 @@ It also makes buttons "Clear Solo" and "Clear Mute" colorful again :)
 
 ### How to use
 
-1. Copy the script from here:
+1. Copy the script from [here](https://raw.githubusercontent.com/ndikanov/ui24/master/custom.min.js)
 1. Open the Mixer Interface in a browser.
 1. Open a console by pressing:
     * `Ctrl + Shift + J` on Windows and Linux,
@@ -28,4 +28,4 @@ You may get an error in a console:
 
 Don't worry. It does not affect the script execution.
 
-Script works until page reload. 
+Script works until page reload.
