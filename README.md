@@ -1,6 +1,6 @@
-##Customizer for Soundcraft Ui24R User Interface
+## Customizer for Soundcraft Ui24R User Interface
 
-###Description
+### Description
 
 This script adds new Players View to a BigD mode.
 
@@ -8,11 +8,11 @@ This script adds new Players View to a BigD mode.
 
 It also makes buttons "Clear Solo" and "Clear Mute" colorful again :)
 
-###Disclaimer
+### Disclaimer
 
 <span style="font-size: 50%; color: blue;">THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</span>
 
-###How to use
+### How to use
 
 1. Copy the script from here:
 1. Open the Mixer Interface in a browser.
@@ -28,4 +28,4 @@ You may get an error in a console:
 
 Don't worry. It does not affect the script execution.
 
-Script works until page reload.
+Script works until page reload. 
